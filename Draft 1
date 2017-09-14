@@ -1,0 +1,20 @@
+What I have learned/executed/created so far:
+
+CUT THE COUNTRY
+LAYER→ TRANSPARENCY→ ALPHA CHANNEL→ RIGHT CLICK TO CLEAR→ ADD FOOD
+TURN OFF EYE ON MAP TO RESIZE FOOD IN THE SHAPE OF THE COUNTRY
+
+TOOLS, SELECT FOR CUTTING
+
+TO CROP→ DRAW BOX AROUND PICTURE TO EDIT
+
+TO RESIZE→ RIGHT CLICK, SCALE, SCALE IMAGE
+
+
+Select food layer you want to create
+Move layer to top, above map
+Right click, Layer → Scale Layer
+Select crop tool and make sure Current Layer only is checked (in toolbox)
+Draw square around desired portion of image and press Enter
+Move picture to desired location using 4-arrow moving tool
+To see what overall picture looks like, move map to top layer
